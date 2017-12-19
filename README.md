@@ -264,7 +264,6 @@ start();
 
 ### Test assertions ###
 
-
 ```js
 ok( value, [message] );
 equal( actual, expected, [message] );
